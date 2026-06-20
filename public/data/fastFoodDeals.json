@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ff1",
+    "chain": "McDonald's",
+    "title": "Free Large Fries w/ $1 Min",
+    "description": "Get free large fries with any $1+ purchase in the McDonald's app.",
+    "price": "Free",
+    "expiryDate": "2026-08-03",
+    "category": "Sides",
+    "badge": "Popular",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff2",
+    "chain": "Burger King",
+    "title": "$5 Your Way Meal",
+    "description": "Double Cheeseburger, 4pc Nuggets, Small Fries, Small Drink.",
+    "price": "$5.00",
+    "expiryDate": "2026-08-18",
+    "category": "Meal Deal",
+    "badge": "Limited Time",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff3",
+    "chain": "Taco Bell",
+    "title": "$5 Cravings Box",
+    "description": "Build your own box: specialty, starter, side, and drink.",
+    "price": "$5.00",
+    "expiryDate": "2026-09-17",
+    "category": "Meal Deal",
+    "badge": "Popular",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff4",
+    "chain": "Wendy's",
+    "title": "Free 6pc Nuggets w/ Purchase",
+    "description": "Free 6pc nuggets with any purchase in-app.",
+    "price": "Free",
+    "expiryDate": "2026-07-10",
+    "category": "Sides",
+    "badge": "Flash Sale",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff5",
+    "chain": "Subway",
+    "title": "BOGO 50% Off Footlong",
+    "description": "Buy one footlong, get one 50% off. Use code BOGO50.",
+    "price": "BOGO 50%",
+    "expiryDate": "2026-07-03",
+    "category": "Sandwiches",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff6",
+    "chain": "KFC",
+    "title": "$20 Family Meal",
+    "description": "8pc Chicken, 2 large sides, 4 biscuits. Feeds 4.",
+    "price": "$20.00",
+    "expiryDate": "2026-09-02",
+    "category": "Family",
+    "badge": "Popular",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff7",
+    "chain": "Chick-fil-A",
+    "title": "Free Sandwich from Survey",
+    "description": "Complete receipt survey for a free Chicken Sandwich.",
+    "price": "Free",
+    "expiryDate": "2026-09-17",
+    "category": "Sandwiches",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff8",
+    "chain": "Popeyes",
+    "title": "BOGO Chicken Sandwich",
+    "description": "Buy one Chicken Sandwich combo, get a second sandwich free.",
+    "price": "BOGO",
+    "expiryDate": "2026-07-19",
+    "category": "Sandwiches",
+    "badge": "Flash Sale",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff9",
+    "chain": "McDonald's",
+    "title": "$0.99 Any Size Coffee",
+    "description": "Any size premium roast or iced coffee for $0.99 in-app.",
+    "price": "$0.99",
+    "expiryDate": "2026-09-17",
+    "category": "Drinks",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff10",
+    "chain": "Taco Bell",
+    "title": "Free Doritos Locos Taco",
+    "description": "New app users get a free Doritos Locos Taco.",
+    "price": "Free",
+    "expiryDate": "2026-09-17",
+    "category": "Tacos",
+    "badge": "New",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff11",
+    "chain": "Arby's",
+    "title": "2 for $7 Everyday Value",
+    "description": "Mix & match 2 select sandwiches for just $7.",
+    "price": "$7.00",
+    "expiryDate": "2026-08-18",
+    "category": "Sandwiches",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff12",
+    "chain": "Sonic",
+    "title": "Half Price Shakes After 8PM",
+    "description": "Half price shakes every day after 8 PM.",
+    "price": "50% Off",
+    "expiryDate": "2026-09-17",
+    "category": "Dessert",
+    "badge": "Popular",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff13",
+    "chain": "Domino's",
+    "title": "$7.99 Carryout Deal",
+    "description": "Any 3-topping pizza or Dips & Twists combo for $7.99.",
+    "price": "$7.99",
+    "expiryDate": "2026-09-17",
+    "category": "Pizza",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff14",
+    "chain": "Pizza Hut",
+    "title": "$12 Anytime Pizza",
+    "description": "Large original stuffed crust, up to 3 toppings.",
+    "price": "$12.00",
+    "expiryDate": "2026-07-19",
+    "category": "Pizza",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff15",
+    "chain": "Burger King",
+    "title": "Free Whopper w/ $3+ Purchase",
+    "description": "Free Whopper for new registered users with $3 purchase.",
+    "price": "Free",
+    "expiryDate": "2026-09-17",
+    "category": "Sandwiches",
+    "badge": "New",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff16",
+    "chain": "Jack in the Box",
+    "title": "2 Tacos for $0.99",
+    "description": "Classic Jack in the Box tacos, 2 for under a dollar.",
+    "price": "$0.99",
+    "expiryDate": "2026-09-17",
+    "category": "Tacos",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff17",
+    "chain": "Dunkin'",
+    "title": "$3 Medium Cold Brew",
+    "description": "Members get a medium cold brew for $3.",
+    "price": "$3.00",
+    "expiryDate": "2026-08-03",
+    "category": "Drinks",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff18",
+    "chain": "Panera Bread",
+    "title": "$2 Off Any Salad",
+    "description": "Take $2 off any full-sized salad.",
+    "price": "-$2.00",
+    "expiryDate": "2026-07-03",
+    "category": "Salads",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff19",
+    "chain": "Subway",
+    "title": "$6.99 Footlong",
+    "description": "Any footlong for $6.99 with code 699FL.",
+    "price": "$6.99",
+    "expiryDate": "2026-07-19",
+    "category": "Sandwiches",
+    "badge": "Limited Time",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "ff20",
+    "chain": "White Castle",
+    "title": "10 Sliders for $8",
+    "description": "Sack of 10 original sliders for $8.",
+    "price": "$8.00",
+    "expiryDate": "2026-08-03",
+    "category": "Sandwiches",
+    "last_updated": "2026-06-19"
+  }
+]

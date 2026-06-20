@@ -1,0 +1,110 @@
+[
+  {
+    "id": "gc1",
+    "brand": "Starbucks",
+    "value": 25.0,
+    "price": 23.5,
+    "discount": 6,
+    "source": "Raise",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc2",
+    "brand": "Chipotle",
+    "value": 50.0,
+    "price": 45.0,
+    "discount": 10,
+    "source": "CardCash",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc3",
+    "brand": "McDonald's",
+    "value": 10.0,
+    "price": 9.2,
+    "discount": 8,
+    "source": "GiftCardGranny",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc4",
+    "brand": "Subway",
+    "value": 20.0,
+    "price": 17.6,
+    "discount": 12,
+    "source": "Raise",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc5",
+    "brand": "DoorDash",
+    "value": 100.0,
+    "price": 95.0,
+    "discount": 5,
+    "source": "CardCash",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc6",
+    "brand": "UberEats",
+    "value": 50.0,
+    "price": 47.5,
+    "discount": 5,
+    "source": "Raise",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc7",
+    "brand": "Taco Bell",
+    "value": 25.0,
+    "price": 21.25,
+    "discount": 15,
+    "source": "CardCash",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc8",
+    "brand": "Burger King",
+    "value": 15.0,
+    "price": 13.5,
+    "discount": 10,
+    "source": "GiftCardGranny",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc9",
+    "brand": "Panera Bread",
+    "value": 25.0,
+    "price": 22.5,
+    "discount": 10,
+    "source": "Raise",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc10",
+    "brand": "Dunkin'",
+    "value": 10.0,
+    "price": 8.8,
+    "discount": 12,
+    "source": "CardCash",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc11",
+    "brand": "Domino's",
+    "value": 50.0,
+    "price": 42.5,
+    "discount": 15,
+    "source": "Raise",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "gc12",
+    "brand": "Olive Garden",
+    "value": 50.0,
+    "price": 44.0,
+    "discount": 12,
+    "source": "GiftCardGranny",
+    "last_updated": "2026-06-19"
+  }
+]

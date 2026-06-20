@@ -1,0 +1,115 @@
+export interface PromoCode {
+  id: string;
+  service: string;
+  code: string;
+  description: string;
+  expiryDate: string;
+}
+
+export const promoCodes: PromoCode[] = [
+  {
+    id: 'pc1',
+    service: 'UberEats',
+    code: 'EATS-SAVE15',
+    description: '$15 off your next order of $20+.',
+    expiryDate: '2026-06-30',
+  },
+  {
+    id: 'pc2',
+    service: 'DoorDash',
+    code: 'DASH2026',
+    description: '30% off for new customers.',
+    expiryDate: '2026-12-31',
+  },
+  {
+    id: 'pc3',
+    service: 'Grubhub',
+    code: 'GRUB5FREE',
+    description: '$5 off your first pickup order.',
+    expiryDate: '2026-08-15',
+  },
+  {
+    id: 'pc4',
+    service: 'Instacart',
+    code: 'FREESHIP26',
+    description: 'Free delivery on orders over $35.',
+    expiryDate: '2026-12-31',
+  },
+  {
+    id: 'pc5',
+    service: 'Postmates',
+    code: 'POSTY10',
+    description: '$10 off delivery orders of $25+.',
+    expiryDate: '2026-07-10',
+  },
+  {
+    id: 'pc6',
+    service: 'Domino\'s',
+    code: '9174',
+    description: 'Any large 3-topping pizza for $7.99.',
+    expiryDate: '2026-12-31',
+  },
+  {
+    id: 'pc7',
+    service: 'Papa Johns',
+    code: 'BOGO',
+    description: 'Buy one large pizza, get one free.',
+    expiryDate: '2026-07-04',
+  },
+  {
+    id: 'pc8',
+    service: 'Pizza Hut',
+    code: 'THANKYOU',
+    description: '$5 off any order over $25.',
+    expiryDate: '2026-06-30',
+  },
+  {
+    id: 'pc9',
+    service: 'UberEats',
+    code: 'WELCOME25',
+    description: '25% off for new users.',
+    expiryDate: '2026-12-31',
+  },
+  {
+    id: 'pc10',
+    service: 'DoorDash',
+    code: 'SUMMER26',
+    description: '$0 delivery fee for DashPass members.',
+    expiryDate: '2026-09-01',
+  },
+  {
+    id: 'pc11',
+    service: 'Subway',
+    code: 'FREEFOOTLONG',
+    description: 'Buy 2 footlongs, get 1 free.',
+    expiryDate: '2026-06-30',
+  },
+  {
+    id: 'pc12',
+    service: 'Chipotle',
+    code: 'QUESO26',
+    description: 'Free queso with any entree purchase.',
+    expiryDate: '2026-07-20',
+  },
+  {
+    id: 'pc13',
+    service: 'McDonald\'s',
+    code: 'MCDAPP5',
+    description: '$5 off $15+ order through the app.',
+    expiryDate: '2026-08-30',
+  },
+  {
+    id: 'pc14',
+    service: 'Burger King',
+    code: 'ROYALTY',
+    description: 'Free fries with any burger purchase.',
+    expiryDate: '2026-10-15',
+  },
+  {
+    id: 'pc15',
+    service: 'Starbucks',
+    code: 'STARS20',
+    description: 'Double stars on your next transaction.',
+    expiryDate: '2026-06-25',
+  }
+];

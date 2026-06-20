@@ -1,0 +1,144 @@
+[
+  {
+    "id": "g1",
+    "store": "Walmart",
+    "title": "Great Value Milk 1 Gal",
+    "description": "Whole, 2%, 1%, or Fat Free.",
+    "price": "$2.98",
+    "expiryDate": "2026-06-26",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g2",
+    "store": "Kroger",
+    "title": "Strawberries 1lb",
+    "description": "Fresh California grown.",
+    "price": "$1.88",
+    "expiryDate": "2026-06-24",
+    "badge": "Limited Time",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g3",
+    "store": "Costco",
+    "title": "Rotisserie Chicken",
+    "description": "Famous 3lb whole roasted chicken.",
+    "price": "$4.99",
+    "expiryDate": "2026-09-17",
+    "badge": "Bulk Deal",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g4",
+    "store": "Aldi",
+    "title": "Avocados",
+    "description": "Fresh hass avocados.",
+    "price": "$0.49/ea",
+    "expiryDate": "2026-06-24",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g5",
+    "store": "Safeway",
+    "title": "T-Bone Steaks",
+    "description": "USDA Choice Beef, value pack.",
+    "price": "$5.99/lb",
+    "expiryDate": "2026-06-22",
+    "badge": "Flash Sale",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g6",
+    "store": "Trader Joe's",
+    "title": "Two Buck Chuck",
+    "description": "Charles Shaw Wine variety.",
+    "price": "$2.99",
+    "expiryDate": "2026-09-17",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g7",
+    "store": "Walmart",
+    "title": "Eggs 12ct",
+    "description": "Grade A Large White.",
+    "price": "$1.44",
+    "expiryDate": "2026-06-26",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g8",
+    "store": "Kroger",
+    "title": "Ribeye Steak",
+    "description": "Super value pack, bone-in.",
+    "price": "$7.99/lb",
+    "expiryDate": "2026-06-24",
+    "badge": "Limited Time",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g9",
+    "store": "Aldi",
+    "title": "Blueberries 1 Pint",
+    "description": "Sweet fresh blueberries.",
+    "price": "$2.49",
+    "expiryDate": "2026-06-24",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g10",
+    "store": "Costco",
+    "title": "Paper Towels 12pk",
+    "description": "Kirkland Signature Create-a-Size.",
+    "price": "$19.99",
+    "expiryDate": "2026-07-19",
+    "badge": "Bulk Deal",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g11",
+    "store": "Publix",
+    "title": "Boar's Head Turkey",
+    "description": "Oven gold turkey breast, deli sliced.",
+    "price": "$10.99/lb",
+    "expiryDate": "2026-06-24",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g12",
+    "store": "Whole Foods",
+    "title": "Organic Bananas",
+    "description": "Fair trade organic bananas.",
+    "price": "$0.69/lb",
+    "expiryDate": "2026-07-03",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g13",
+    "store": "Safeway",
+    "title": "Coca-Cola 12pk B2G2",
+    "description": "Buy 2 Get 2 Free on all 12pk cans.",
+    "price": "B2G2 Free",
+    "expiryDate": "2026-06-22",
+    "badge": "Flash Sale",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g14",
+    "store": "Walmart",
+    "title": "Chicken Breast 5lb",
+    "description": "Fresh boneless skinless.",
+    "price": "$12.47",
+    "expiryDate": "2026-06-26",
+    "badge": "Bulk Deal",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "g15",
+    "store": "Kroger",
+    "title": "Doritos Party Size",
+    "description": "Select varieties.",
+    "price": "$2.99",
+    "expiryDate": "2026-06-24",
+    "last_updated": "2026-06-19"
+  }
+]

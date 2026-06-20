@@ -1,0 +1,137 @@
+[
+  {
+    "id": "c1",
+    "name": "McDouble",
+    "store": "McDonald's",
+    "price": 2.99,
+    "calories": 400,
+    "caloriesPerDollar": 133.8,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c2",
+    "name": "Big Mac",
+    "store": "McDonald's",
+    "price": 5.99,
+    "calories": 550,
+    "caloriesPerDollar": 91.8,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c3",
+    "name": "Bean Burrito",
+    "store": "Taco Bell",
+    "price": 1.89,
+    "calories": 350,
+    "caloriesPerDollar": 185.2,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c4",
+    "name": "Cheesy Bean & Rice Burrito",
+    "store": "Taco Bell",
+    "price": 1.29,
+    "calories": 420,
+    "caloriesPerDollar": 325.6,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c5",
+    "name": "Whopper",
+    "store": "Burger King",
+    "price": 6.49,
+    "calories": 670,
+    "caloriesPerDollar": 103.2,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c6",
+    "name": "Double Cheeseburger",
+    "store": "Burger King",
+    "price": 3.29,
+    "calories": 450,
+    "caloriesPerDollar": 136.8,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c7",
+    "name": "Costco Hot Dog Combo",
+    "store": "Costco",
+    "price": 1.5,
+    "calories": 580,
+    "caloriesPerDollar": 386.7,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c8",
+    "name": "Little Caesars Pepperoni Pizza",
+    "store": "Little Caesars",
+    "price": 6.99,
+    "calories": 2240,
+    "caloriesPerDollar": 320.5,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c9",
+    "name": "Footlong BMT",
+    "store": "Subway",
+    "price": 9.49,
+    "calories": 760,
+    "caloriesPerDollar": 80.1,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c10",
+    "name": "Chipotle Chicken Bowl",
+    "store": "Chipotle",
+    "price": 9.25,
+    "calories": 650,
+    "caloriesPerDollar": 70.3,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c11",
+    "name": "4pc Chicken Nuggets",
+    "store": "Wendy's",
+    "price": 1.99,
+    "calories": 180,
+    "caloriesPerDollar": 90.5,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c12",
+    "name": "Jr. Bacon Cheeseburger",
+    "store": "Wendy's",
+    "price": 3.19,
+    "calories": 370,
+    "caloriesPerDollar": 116.0,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c13",
+    "name": "Large Fries",
+    "store": "McDonald's",
+    "price": 3.99,
+    "calories": 480,
+    "caloriesPerDollar": 120.3,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c14",
+    "name": "Beef Pot Roast (Home Cooked)",
+    "store": "Home Cooking",
+    "price": 4.5,
+    "calories": 800,
+    "caloriesPerDollar": 177.8,
+    "last_updated": "2026-06-19"
+  },
+  {
+    "id": "c15",
+    "name": "Peanut Butter Sandwich",
+    "store": "Home Cooking",
+    "price": 0.5,
+    "calories": 350,
+    "caloriesPerDollar": 700.0,
+    "last_updated": "2026-06-19"
+  }
+]

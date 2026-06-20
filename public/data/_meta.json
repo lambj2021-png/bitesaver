@@ -1,0 +1,11 @@
+{
+  "last_scraped": "2026-06-19",
+  "scraper_version": "1.0.0",
+  "sources": {
+    "fast_food": "curated + SerpAPI",
+    "grocery": "curated + SerpAPI",
+    "promo_codes": "curated + SerpAPI",
+    "gift_cards": "Raise, CardCash, GiftCardGranny",
+    "nutrition": "USDA / menu data"
+  }
+}
